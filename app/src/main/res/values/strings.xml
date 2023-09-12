@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Text ComparApp</string>
+    <string name="Start">Empezar</string>
+    <string name="welcomeToApp">Bienvenidos a Text ComparApp.</string>
+    <string name="compare">Comparar</string>
+    <string name="Text1"> Ingrese Texto 1</string>
+    <string name="Text2"> Ingrese Texto 2</string>
+</resources>
